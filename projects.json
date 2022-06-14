@@ -1,0 +1,15 @@
+
+[
+    {
+      "name": "Elden Ring Project",
+      "live": "https://davisshoup.github.io/Elden-Ring-Project/",
+      "git": "https://github.com/DavisShoup/Elden-Ring-Project",
+      "image": "https://i.imgur.com/lW6KHje.png"
+    },
+    {
+      "name": "Peaky Blinders Website",
+      "live": "https://peaky-blinders-derby.herokuapp.com/homepage",
+      "git": "https://github.com/DavisShoup/Peaky-Blinders-Website",
+      "image": "https://i.imgur.com/WyF4bmC.png"
+    }
+  ]
